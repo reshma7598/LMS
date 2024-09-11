@@ -1,0 +1,6 @@
+/* Register page background image */
+.bg-secondary {
+    /* background: url('./images/REG.jpg') no-repeat center center fixed; */
+    background-size: cover;
+    min-height: 100vh; /* Full viewport height */
+}
